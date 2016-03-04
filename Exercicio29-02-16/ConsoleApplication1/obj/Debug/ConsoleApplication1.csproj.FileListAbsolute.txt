@@ -7,3 +7,6 @@ C:\Users\mathe\Documents\VisualStudioProjects\Exercicio29-02-16\ConsoleApplicati
 C:\Users\mathe\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\mathe\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\mathe\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\João Marcos\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\João Marcos\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\João Marcos\Source\Repos\Engenharia-de-software-III\Exercicio29-02-16\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
